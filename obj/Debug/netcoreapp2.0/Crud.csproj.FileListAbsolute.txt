@@ -1,0 +1,11 @@
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\bin\Debug\netcoreapp2.0\Crud.deps.json
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\bin\Debug\netcoreapp2.0\Crud.runtimeconfig.json
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\bin\Debug\netcoreapp2.0\Crud.runtimeconfig.dev.json
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\bin\Debug\netcoreapp2.0\Crud.dll
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\bin\Debug\netcoreapp2.0\Crud.pdb
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\obj\Debug\netcoreapp2.0\Crud.csprojResolveAssemblyReference.cache
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\obj\Debug\netcoreapp2.0\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\obj\Debug\netcoreapp2.0\Crud.AssemblyInfoInputs.cache
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\obj\Debug\netcoreapp2.0\Crud.AssemblyInfo.cs
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\obj\Debug\netcoreapp2.0\Crud.dll
+C:\Users\Voja\Documents\Visual Studio 2017\Projects\UdemyLearningCore\Crud\obj\Debug\netcoreapp2.0\Crud.pdb
